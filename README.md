@@ -5,11 +5,13 @@
 - Location: Hyderabad, India  
 - Email: rahman53523@gmail.com    
 
-- LinkedIn: <a href="www.linkedin.com/in/mohammed-zia-ur-rahman-47a7b4374" target="_blank" class="btn-linkedin">
-    View LinkedIn Profile
+- LinkedIn: <a href="https://www.linkedin.com/in/mohammed-zia-ur-rahman-47a7b4374/" class="linkedin-button" target="_blank">
+  Connect on LinkedIn
 </a>
- 
 
+- <a href="https://i.ibb.co/TxXfq9LM/MOHAMMED-ZIA-UR-RAHMAN-RESUME-2026-1.jpg" class="resume-button" target="_blank">
+  View Resume
+</a>
 ---
 
 ## About Me
@@ -65,6 +67,9 @@ A highly effective communicator with advanced English proficiency, demonstrated 
 - Networking Basics – Cisco Networking Academy  
 - Introduction to Computer Networking – Simplilearn  
 - Machine Learning Foundation – FutureSkills Prime (NASSCOM & Govt. of India)
+- <a href="https://pdftolink.io/file/r2_dXNlcnMvemlhbW9oYW1tZWQ1NjVfZ21haWwuY29tL2ZlNDVkMjhlLWZhMDQtNDhiOC1iMTdjLWJmZTZhMWI1NTIwOS5wZGY" class="pdf-button" target="_blank">
+  View certifications
+</a>
   
 
 ---
@@ -80,9 +85,3 @@ A highly effective communicator with advanced English proficiency, demonstrated 
 - To contribute to securing real-world systems and infrastructure  
 
 ---
-
-## Links
-- LinkedIn: <a href="www.linkedin.com/in/mohammed-zia-ur-rahman-47a7b4374" target="_blank" class="btn-linkedin">
-    View LinkedIn Profile
-</a>
- 
