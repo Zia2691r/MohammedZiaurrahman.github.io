@@ -5,8 +5,10 @@
 - Location: Hyderabad, India  
 - Email: rahman53523@gmail.com    
 
-- LinkedIn: https://linkedin.com/in/mohammed-zia-ur-rahman  
-- GitHub: https://github.com/Zia-MyDFIR  
+- LinkedIn: <a href="www.linkedin.com/in/mohammed-zia-ur-rahman-47a7b4374" target="_blank" class="btn-linkedin">
+    View LinkedIn Profile
+</a>
+ 
 
 ---
 
@@ -42,12 +44,19 @@ A highly effective communicator with advanced English proficiency, demonstrated 
 ### Secure QR Code Scanner
 - Developed a machine learning-based scanner to detect malicious URLs in QR codes  
 - Focused on preventing phishing and unsafe links
-- Documentation : https://pdftolink.io/file/r2_dXNlcnMvemlhbW9oYW1tZWQ1NjVfZ21haWwuY29tLzUyMGNjN2IxLWVkOTUtNGFhNC1iMjNjLTQ0NDNlMmQ5Mjc0YS5wZGY
-
+- Documentation : <a href="https://pdftolink.io/file/r2_dXNlcnMvemlhbW9oYW1tZWQ1NjVfZ21haWwuY29tLzUyMGNjN2IxLWVkOTUtNGFhNC1iMjNjLTQ0NDNlMmQ5Mjc0YS5wZGY" 
+   target="_blank" 
+   class="btn-resume">
+    View Full Resume PDF
+</a>
 ### Analogous Exploration for cipher text visuals in unsecured cloud computing 
 - Studied data exposure risks in unsecured cloud environments  
 - Analyzed security vulnerabilities in cloud architectures
-- Documentation : https://analogous-exploration-for-ciphertext-visuals-in-unsecured-cloud.tiiny.site
+- Documentation : <a href="https://analogous-exploration-for-ciphertext-visuals-in-unsecured-cloud.tiiny.site" 
+   target="_blank" 
+   class="btn-project">
+    View Cloud Research Project
+</a>
 
 ---
 
@@ -73,7 +82,7 @@ A highly effective communicator with advanced English proficiency, demonstrated 
 ---
 
 ## Links
-- LinkedIn: <a href="https://linkedin.com/in/mohammed-zia-ur-rahman" target="_blank" class="btn-linkedin">
+- LinkedIn: <a href="www.linkedin.com/in/mohammed-zia-ur-rahman-47a7b4374" target="_blank" class="btn-linkedin">
     View LinkedIn Profile
 </a>
  
