@@ -1,0 +1,6 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+gem "github-pages", group: :jekyll_plugins
+title: MOHAMMED ZIA UR RAHMAN 
+description: Cybersecurity Professional with strong fundamentals in programming and networking. Completed the Google Cybersecurity Professional Certificate, gaining hands-on expertise in SIEM tools, IDS, and Python-driven security automation. Exceptional communicator with a PTE Academic English proficiency score of 76/90.
