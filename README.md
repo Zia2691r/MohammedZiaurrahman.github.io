@@ -11,8 +11,9 @@
 ---
 
 ## About Me
-Aspiring Software Engineer and Cybersecurity Professional with strong foundations in programming, networking, and security operations.  
+Software Engineer and Cybersecurity Professional with strong foundations in programming, networking, and security operations.  
 Completed the Google Cybersecurity Professional Certificate with hands-on experience in SIEM tools, IDS, and Python-based security automation.
+A highly effective communicator with advanced English proficiency, demonstrated by an overall score of 78/90 on the Pearson Test of English (PTE) Academic exam.
 
 ---
 
@@ -40,11 +41,13 @@ Completed the Google Cybersecurity Professional Certificate with hands-on experi
 
 ### Secure QR Code Scanner
 - Developed a machine learning-based scanner to detect malicious URLs in QR codes  
-- Focused on preventing phishing and unsafe links  
+- Focused on preventing phishing and unsafe links
+- Documentation : https://pdftolink.io/file/r2_dXNlcnMvemlhbW9oYW1tZWQ1NjVfZ21haWwuY29tLzUyMGNjN2IxLWVkOTUtNGFhNC1iMjNjLTQ0NDNlMmQ5Mjc0YS5wZGY
 
-### Cloud Security Research
+### Analogous Exploration for cipher text visuals in unsecured cloud computing 
 - Studied data exposure risks in unsecured cloud environments  
-- Analyzed security vulnerabilities in cloud architectures  
+- Analyzed security vulnerabilities in cloud architectures
+- Documentation : https://analogous-exploration-for-ciphertext-visuals-in-unsecured-cloud.tiiny.site
 
 ---
 
@@ -52,7 +55,8 @@ Completed the Google Cybersecurity Professional Certificate with hands-on experi
 - Google Cybersecurity Professional Certificate – Coursera  
 - Networking Basics – Cisco Networking Academy  
 - Introduction to Computer Networking – Simplilearn  
-- Machine Learning Foundation – FutureSkills Prime (NASSCOM & Govt. of India)  
+- Machine Learning Foundation – FutureSkills Prime (NASSCOM & Govt. of India)
+  
 
 ---
 
@@ -61,21 +65,15 @@ Completed the Google Cybersecurity Professional Certificate with hands-on experi
   - Duration: 2022 – 2025  
   - CGPA: 7.08  
 
-- Intermediate (12th) – Telangana State Board  
-  - MPC  
-  - Percentage: 63.10%  
-
-- SSC (10th) – Telangana State Board  
-  - Percentage: 97%  
-
 ---
 
-## Objective
-- To start my career as a SOC Analyst or Cybersecurity Engineer  
+## Objective  
 - To contribute to securing real-world systems and infrastructure  
 
 ---
 
 ## Links
-- LinkedIn: https://linkedin.com/in/mohammed-zia-ur-rahman  
-- GitHub: https://github.com/Zia-MyDFIR  
+- LinkedIn: <a href="https://linkedin.com/in/mohammed-zia-ur-rahman" target="_blank" class="btn-linkedin">
+    View LinkedIn Profile
+</a>
+ 
