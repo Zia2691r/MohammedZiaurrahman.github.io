@@ -49,8 +49,9 @@ A highly effective communicator with advanced English proficiency, demonstrated 
 - Documentation : <a href="https://drive.google.com/file/d/1exqMr3evKIAOIUr9NOEMadYoCzL2irbw/view?usp=sharing" 
    target="_blank" 
    class="btn-resume">
-    View Full Resume PDF
+    View Research Project 
 </a>
+
 ### Analogous Exploration for cipher text visuals in unsecured cloud computing 
 - Studied data exposure risks in unsecured cloud environments  
 - Analyzed security vulnerabilities in cloud architectures
