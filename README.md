@@ -46,7 +46,7 @@ A highly effective communicator with advanced English proficiency, demonstrated 
 ### Secure QR Code Scanner
 - Developed a machine learning-based scanner to detect malicious URLs in QR codes  
 - Focused on preventing phishing and unsafe links
-- Documentation : <a href="https://pdftolink.io/file/r2_dXNlcnMvemlhbW9oYW1tZWQ1NjVfZ21haWwuY29tLzUyMGNjN2IxLWVkOTUtNGFhNC1iMjNjLTQ0NDNlMmQ5Mjc0YS5wZGY" 
+- Documentation : <a href="https://drive.google.com/file/d/1exqMr3evKIAOIUr9NOEMadYoCzL2irbw/view?usp=sharing" 
    target="_blank" 
    class="btn-resume">
     View Full Resume PDF
@@ -54,7 +54,7 @@ A highly effective communicator with advanced English proficiency, demonstrated 
 ### Analogous Exploration for cipher text visuals in unsecured cloud computing 
 - Studied data exposure risks in unsecured cloud environments  
 - Analyzed security vulnerabilities in cloud architectures
-- Documentation : <a href="https://analogous-exploration-for-ciphertext-visuals-in-unsecured-cloud.tiiny.site" 
+- Documentation : <a href="https://drive.google.com/file/d/1poddQwC8JVniirQGroKhi5HNKIOKQaZ8/view?usp=sharing" 
    target="_blank" 
    class="btn-project">
     View Cloud Research Project
@@ -67,7 +67,7 @@ A highly effective communicator with advanced English proficiency, demonstrated 
 - Networking Basics – Cisco Networking Academy  
 - Introduction to Computer Networking – Simplilearn  
 - Machine Learning Foundation – FutureSkills Prime (NASSCOM & Govt. of India)
-- <a href="https://pdftolink.io/file/r2_dXNlcnMvemlhbW9oYW1tZWQ1NjVfZ21haWwuY29tL2ZlNDVkMjhlLWZhMDQtNDhiOC1iMTdjLWJmZTZhMWI1NTIwOS5wZGY" class="pdf-button" target="_blank">
+- <a href="https://drive.google.com/file/d/1fC9GkCnDfP95oVu5xuUrUxOolOvzncvB/view?usp=sharing" target="_blank">
   View certifications
 </a>
   
